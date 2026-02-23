@@ -1,0 +1,22 @@
+# Core Data Science & GIS
+numpy
+pandas
+matplotlib
+seaborn
+jupyter
+
+# Geospatial & Raster Processing
+geopandas
+rasterio
+shapely
+fiona
+pyproj
+
+# Remote Sensing & Satellite Data Access
+sentinelsat  # For verifying/downloading from Copernicus Open Access Hub
+pystac-client # Modern STAC API client (optional but recommended for cloud data)
+stackstac    # For turning STAC items into xarrays (optional)
+
+# Visualization
+folium       # Interactive maps
+mapclassify
